@@ -1,0 +1,18 @@
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/shohei/.rbenv/versions/2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-19gth9t sitelibdir\=./.gem.20230728-51634-19gth9t clean
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-19gth9t sitelibdir\=./.gem.20230728-51634-19gth9t
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-19gth9t sitelibdir\=./.gem.20230728-51634-19gth9t install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230728-51634-19gth9t/skiptrace/internal
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-19gth9t sitelibdir\=./.gem.20230728-51634-19gth9t clean

@@ -1,0 +1,18 @@
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/shohei/.rbenv/versions/2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-xis1ew sitelibdir\=./.gem.20230728-51634-xis1ew clean
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-xis1ew sitelibdir\=./.gem.20230728-51634-xis1ew
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-xis1ew sitelibdir\=./.gem.20230728-51634-xis1ew install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230728-51634-xis1ew/bootsnap
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-xis1ew sitelibdir\=./.gem.20230728-51634-xis1ew clean

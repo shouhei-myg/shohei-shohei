@@ -1,0 +1,18 @@
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/shohei/.rbenv/versions/2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-1eh76zy sitelibdir\=./.gem.20230728-51634-1eh76zy clean
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-1eh76zy sitelibdir\=./.gem.20230728-51634-1eh76zy
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-1eh76zy sitelibdir\=./.gem.20230728-51634-1eh76zy install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230728-51634-1eh76zy
+
+current directory: /Users/shohei/projects/shohei-shohei/vendor/gems/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230728-51634-1eh76zy sitelibdir\=./.gem.20230728-51634-1eh76zy clean
